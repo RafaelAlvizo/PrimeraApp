@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mi App</string>
+    <string name="titulo">Mi Primer Aplicación Movil</string>
+    <string name="tunombre">¿Cual es tu nombre?</string>
+    <string name="pulsar">Pulsame</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="miempresa">Servicios Informaticos</string>
+    <string name="alumno">Rafael Alvizo Rolón</string>
+    <string name="matricula">2022030120</string>
+    <string name="materia">Aplicaciones Moviles</string>
+    <string name="desImaCot">Logo Toyota</string>
+    <string name="_2022030021">2022030021</string>
+    <string name="aplicaciones_moviles">Aplicaciones Moviles</string>
+    <string name="spinner">Spinner</string>
+</resources>
